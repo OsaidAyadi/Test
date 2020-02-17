@@ -1,0 +1,26 @@
+[
+  {
+  "userId":1,
+  "firstName":"Romin",
+  "lastName":"Irani",
+  "age": 24
+  },
+  {
+  "userId":2,
+  "firstName":"Dania",
+  "lastName":"Khaleel",
+  "age": 27
+  },
+  {
+  "userId":3,
+  "firstName":"Reham",
+  "lastName":"Zarqawi",
+  "age": 35
+  },
+  {
+    "userId":4,
+    "firstName":"Osaid",
+    "lastName":"Ayyadi",
+    "age":24
+  }
+]
